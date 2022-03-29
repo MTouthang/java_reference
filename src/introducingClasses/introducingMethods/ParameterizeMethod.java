@@ -19,7 +19,7 @@ class Box3{
 }
 
 public class ParameterizeMethod {
-    public static void main(String args[]){
+    public static void main(String[] args){
         Box3 myBox1 = new Box3();
         Box3 myBox2 = new Box3();
         double vol;

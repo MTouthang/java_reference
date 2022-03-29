@@ -7,7 +7,7 @@ class Box2{
 }
 
 public class BoxDemo2 {
-    public static void main(String args[]){
+    public static void main(String[] args){
         Box2 myBox1 = new Box2();
         Box2 myBox2 = new Box2();
         double vol;

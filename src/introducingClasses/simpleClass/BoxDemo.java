@@ -9,7 +9,7 @@ class Box{
 
 // This class declares an object of types Box.
 public class BoxDemo {
-    public static void main(String args[]){
+    public static void main(String[] args){
         Box myBox = new Box();
         double vol;
 

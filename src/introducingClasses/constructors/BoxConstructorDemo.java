@@ -22,7 +22,7 @@ class Box{
 }
 
 public class BoxConstructorDemo {
-    public static void main(String args[]){
+    public static void main(String[] args){
         Box myBox1 = new Box();
         Box myBox2 = new Box();
         double vol;
