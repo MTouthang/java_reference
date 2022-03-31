@@ -1,4 +1,4 @@
-package methodandclass;
+package methodandclass.objectparams;
 
 class Box2{
     double width;

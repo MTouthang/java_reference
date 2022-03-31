@@ -1,4 +1,4 @@
-package methodandclass;
+package methodandclass.overloadingmethod;
 //Demonstrate method overload
 
 class OverloadMethod{

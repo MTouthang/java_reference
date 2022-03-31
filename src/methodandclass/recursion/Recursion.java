@@ -1,4 +1,4 @@
-package methodandclass;
+package methodandclass.recursion;
 
 // simple example of recursion
 class Factorial{

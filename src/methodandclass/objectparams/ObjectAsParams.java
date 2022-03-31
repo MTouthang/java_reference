@@ -1,4 +1,4 @@
-package methodandclass;
+package methodandclass.objectparams;
 
 class Test{
     int a, b;

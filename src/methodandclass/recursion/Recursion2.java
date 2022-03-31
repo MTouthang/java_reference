@@ -1,4 +1,4 @@
-package methodandclass;
+package methodandclass.recursion;
 
 /**
  * Another recursion example to print

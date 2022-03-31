@@ -1,4 +1,4 @@
-package methodandclass;
+package methodandclass.objectparams;
 
 
 //Primitive types are pass by value

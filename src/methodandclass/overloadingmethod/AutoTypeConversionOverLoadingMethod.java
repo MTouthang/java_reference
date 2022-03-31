@@ -1,4 +1,4 @@
-package methodandclass;
+package methodandclass.overloadingmethod;
 
 // Automatic type conversions apply to overloading
 class OverloadDemo{
